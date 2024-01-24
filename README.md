@@ -20,7 +20,7 @@ To allow charities to register and pitch projects.
  
 and give aspiring developers the chance to register and vote for projects they want to work on.
 
-Tech Stack
+<h3 style="font-style: bold; font-size: 25px;">Tech Stack</h3>
 Languages: Javascript, CSS, PostgreSQL
 
 Frameworks: Next.js, React.js, TailwindCSS
@@ -33,14 +33,14 @@ Testing: Playwright
 
 Deployment: Render
 
-How to run Locally
-First, clone the repo,
+<h3 style="font-style: bold; font-size: 25px;">How To Run Locally</h3>
+First, clone the repo
 
-  cd Team-Build
+ cd Team-Build
 
 Install dependencies
 
-setting it up, run:
+Setting it up, run:
 
   npm install or npm i
 
@@ -59,9 +59,9 @@ Open http://localhost:3000 with your browser to see the homepage.
 
 ## Authors
 
-David Dixon
-Haya Minhas
-Mahad Mohamed
-Wendy Richardson
-Rikiah Williams
-Michal Zawadzki
+- David Dixon
+- Haya Minhas
+- Mahad Mohamed
+- Wendy Richardson
+- Rikiah Williams
+- Michal Zawadzki
